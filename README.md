@@ -1,3 +1,3 @@
-# Remote-sensing-with-python/gee
+# Remote-sensing-with-python
 
-Examples of geoprocessing and remote sensing using Google Earth Engine
+Examples of geoprocessing and remote sensing using Python
